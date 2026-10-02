@@ -1,0 +1,37 @@
+2026-10-02 19:05:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-10-02 19:06:13 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-10-02 19:06:47 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-10-02 19:11:40 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-10-02 19:15:21 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-10-02 19:15:23 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-10-02 19:16:16 [main] INFO  TestCases.TC01_Register - ***** Starting User Registration Test *****
+2026-10-02 19:16:16 [main] INFO  TestCases.TC01_Register - Clicking My Account
+2026-10-02 19:16:17 [main] INFO  TestCases.TC01_Register - Clicking Register
+2026-10-02 19:16:20 [main] INFO  TestCases.TC01_Register - Entering First Name
+2026-10-02 19:16:22 [main] INFO  TestCases.TC01_Register - Entering Last Name
+2026-10-02 19:16:23 [main] INFO  TestCases.TC01_Register - Entering Email
+2026-10-02 19:16:23 [main] INFO  TestCases.TC01_Register - Entering Telephone
+2026-10-02 19:16:24 [main] INFO  TestCases.TC01_Register - Entering Password
+2026-10-02 19:16:25 [main] INFO  TestCases.TC01_Register - Entering Confirm Password
+2026-10-02 19:16:25 [main] INFO  TestCases.TC01_Register - Selecting Privacy Policy
+2026-10-02 19:16:26 [main] INFO  TestCases.TC01_Register - Clicking Continue
+2026-10-02 19:16:27 [main] INFO  TestCases.TC01_Register - Validating Account Created message
+2026-10-02 19:21:18 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-10-02 19:21:21 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-10-02 19:21:37 [main] INFO  TestCases.TC01_Register - ***** Starting User Registration Test *****
+2026-10-02 19:21:37 [main] INFO  TestCases.TC01_Register - Clicking My Account
+2026-10-02 19:21:38 [main] INFO  TestCases.TC01_Register - Clicking Register
+2026-10-02 19:21:40 [main] INFO  TestCases.TC01_Register - Entering First Name
+2026-10-02 19:21:42 [main] INFO  TestCases.TC01_Register - Entering Last Name
+2026-10-02 19:21:43 [main] INFO  TestCases.TC01_Register - Entering Email
+2026-10-02 19:21:44 [main] INFO  TestCases.TC01_Register - Entering Telephone
+2026-10-02 19:21:44 [main] INFO  TestCases.TC01_Register - Entering Password
+2026-10-02 19:21:45 [main] INFO  TestCases.TC01_Register - Entering Confirm Password
+2026-10-02 19:21:45 [main] INFO  TestCases.TC01_Register - Selecting Privacy Policy
+2026-10-02 19:21:46 [main] INFO  TestCases.TC01_Register - Clicking Continue
+2026-10-02 19:21:48 [main] INFO  TestCases.TC01_Register - Validating Account Created message
+2026-10-02 19:21:49 [main] INFO  TestCases.TC01_Register - ***** User Registration Test Passed *****
