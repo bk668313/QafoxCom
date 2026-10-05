@@ -34,17 +34,18 @@ public class ExtentListener extends BaseClass implements ITestListener  {
         ExtentReportUtility.test.log(Status.FAIL, result.getThrowable());
 
         try {
-            Object screenshotPath = captureScreen(result.getName());
-            ExtentReportUtility.test.addScreenCaptureFromPath((String) screenshotPath);
+            String screenshotPath = capturescreen(result.getName());
+
+            if (screenshotPath != null && !screenshotPath.isEmpty()) {
+                ExtentReportUtility.test.addScreenCaptureFromPath(screenshotPath);
+            }
+
         } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    private Object captureScreen(String name) {
-		// TODO Auto-generated method stub
-		return null;
-	}
+   
 
 	@Override
     public void onTestSkipped(ITestResult result) {
