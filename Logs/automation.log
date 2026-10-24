@@ -137,3 +137,19 @@
 2026-10-05 13:29:27 [main] INFO  TestCases.TC02_Login - *** Entering Password *****
 2026-10-05 13:29:28 [main] INFO  TestCases.TC02_Login - *** Clicking Login *****
 2026-10-05 13:29:28 [main] INFO  TestCases.TC02_Login - *** TC001_Login completed successfully *****
+2026-10-24 13:21:03 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-10-24 13:21:06 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-10-24 13:21:38 [main] INFO  TestCases.TC02_Login - *** Starting TC001_Login **********
+2026-10-24 13:21:39 [main] INFO  TestCases.TC02_Login - *** Clicking My Account and Login *****
+2026-10-24 13:21:42 [main] INFO  TestCases.TC02_Login - *** Entering Username *****
+2026-10-24 13:21:43 [main] INFO  TestCases.TC02_Login - *** Entering Password *****
+2026-10-24 13:21:43 [main] INFO  TestCases.TC02_Login - *** Clicking Login *****
+2026-10-24 13:21:47 [main] INFO  TestCases.TC02_Login - *** TC001_Login completed successfully *****
+2026-10-24 14:54:03 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-10-24 14:54:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-10-24 14:54:31 [main] INFO  TestCases.TC03_Search - Starting product search test
+2026-10-24 14:54:34 [main] INFO  TestCases.TC03_Search - Product search test passed
