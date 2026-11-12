@@ -137,3 +137,54 @@
 2026-10-05 13:29:27 [main] INFO  TestCases.TC02_Login - *** Entering Password *****
 2026-10-05 13:29:28 [main] INFO  TestCases.TC02_Login - *** Clicking Login *****
 2026-10-05 13:29:28 [main] INFO  TestCases.TC02_Login - *** TC001_Login completed successfully *****
+2026-11-11 19:31:51 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-11 19:31:56 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-11 19:32:38 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-11 19:39:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-11 19:40:00 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-11 19:40:19 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-11 19:42:01 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-11 19:42:04 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-11 19:42:22 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-11 19:48:36 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-11 19:48:39 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-11 19:48:51 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-11 19:51:19 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-11 19:51:22 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-11 19:51:36 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-11 19:55:56 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-11 19:55:59 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-11 19:56:17 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-12 19:18:17 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-12 19:18:20 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-12 19:18:56 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-12 19:25:05 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-12 19:25:07 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-12 19:25:21 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-12 19:27:47 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-12 19:27:49 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-12 19:28:00 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-12 19:34:32 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\Documents\QafoxCom\Grouping.xml"
+2026-11-12 19:34:34 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\Documents\QafoxCom\Grouping.xml
+
+2026-11-12 19:34:49 [main] INFO  TestCases.TC04_AddToCart - **** Starting Add To Cart Test ****
+2026-11-12 19:34:57 [main] INFO  TestCases.TC04_AddToCart - **** Add To Cart Test Passed ****

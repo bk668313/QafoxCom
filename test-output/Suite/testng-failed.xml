@@ -14,13 +14,13 @@
       </run>
     </groups>
     <classes>
-      <class name="TestCases.TC02_Login">
+      <class name="TestCases.TC04_AddToCart">
         <methods>
+          <include name="verifyAddToCart"/>
           <include name="setup"/>
-          <include name="verify_login"/>
           <include name="teardown"/>
         </methods>
-      </class> <!-- TestCases.TC02_Login -->
+      </class> <!-- TestCases.TC04_AddToCart -->
     </classes>
   </test> <!-- chromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
