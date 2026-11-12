@@ -23,7 +23,9 @@
 
     <classes>
      <!-- <class name="TestCases.TC01_Register"/>-->
-      <class name="TestCases.TC02_Login"/>
+     <!-- <class name="TestCases.TC02_Login"/>-->
+     <class name="TestCases.TC04_AddToCart"/>
+     
     </classes>
   </test> 
 </suite> 
